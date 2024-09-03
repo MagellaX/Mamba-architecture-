@@ -24,7 +24,8 @@ One of the key perfomance of it that it's "Selective Memory": Mamba has a specia
 citation:
 
 
-# @article{mamba,
+```bibTex
+@article{mamba,
   title={Mamba: Linear-Time Sequence Modeling with Selective State Spaces},
   author={Gu, Albert and Dao, Tri},
   journal={arXiv preprint arXiv:2312.00752},
