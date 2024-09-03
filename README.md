@@ -21,8 +21,10 @@ Mamba SSM introduces robust performance metrics that go beyond traditional measu
 
 One of the key perfomance of it that it's "Selective Memory": Mamba has a special memory that can focus on important parts of the story instead of memorizing everything...
 
-citation:
 
+implementation of Mamba in one file of PyTorch...
+
+citation:
 
 ```bibTex
 @article{mamba,
@@ -33,4 +35,5 @@ citation:
 } 
 
 
-implementation of Mamba in one file of PyTorch...
+
+
